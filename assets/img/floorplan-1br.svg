@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="857" viewBox="0 0 1050 857" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Stevensville Village one-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="23" y="21" width="1003" height="812"/>
+<path class="w" d="M580,16 V72 M580,208 V242 M580,250 V396 M580,399 V462 M580,771 V837 M727,31 V233 M727,235 V248 M796,234 V396 M573,242 H807 M904,242 H1022 M584,387 H622 M755,387 H793 M807,387 H909 M920,387 H1022"/>
+<path class="d" d="M580,28 V44 M580,221 V238 M580,248 V275 M580,358 V379 M580,780 V797 M727,19 V35 M727,583 V608 M796,139 V155 M796,244 V268 M796,275 V293 M796,352 V397 M1019,242 H1034 M794,387 H810 M892,387 H906"/>
+<path class="win" d="M18,504 V617 M23,504 V617 M28,504 V617 M16,504 H30 M16,617 H30"/>
+<path class="win" d="M82,828 H201 M82,833 H201 M82,838 H201 M82,826 V840 M201,826 V840"/>
+<path class="win" d="M327,828 H440 M327,833 H440 M327,838 H440 M327,826 V840 M440,826 V840"/>
+<path class="win" d="M854,828 H969 M854,833 H969 M854,838 H969 M854,826 V840 M969,826 V840"/>
+<path class="wo" d="M23,21 H1026 V833 H969 M854,833 H440 M327,833 H201 M82,833 H23 V617 M23,504 V21"/>
+<text class="rm" x="250" y="205">Kitchen/Dining</text>
+<text class="rm" x="290" y="625">Living Room</text>
+<text class="rm" x="805" y="610">Bedroom</text>
+<text class="rm" x="875" y="140">Bathroom</text>
+<text class="cl" x="655" y="140">Closet</text>
+<text class="cl" x="680" y="320">Closet</text>
+<text class="sm" x="855" y="320">Hallway</text>
+<text class="sm" x="965" y="320">Closet</text>
+</svg>
